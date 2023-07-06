@@ -32,4 +32,4 @@
 	branch = kirkstone
 [submodule "repos/meta-rust-bin"]
 	path = repos/meta-rust-bin
-	url = git@github.com:EddyGharib/meta-rust-bin.git
+	url = git@github.com:rust-embedded/meta-rust-bin.git
