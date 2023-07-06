@@ -30,3 +30,6 @@
 	path = repos/meta-clang
 	url = https://github.com/kraj/meta-clang
 	branch = kirkstone
+[submodule "repos/meta-rust-bin"]
+	path = repos/meta-rust-bin
+	url = git@github.com:EddyGharib/meta-rust-bin.git
