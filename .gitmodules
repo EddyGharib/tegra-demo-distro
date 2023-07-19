@@ -33,3 +33,7 @@
 [submodule "repos/meta-rust-bin"]
 	path = repos/meta-rust-bin
 	url = git@github.com:EddyGharib/meta-rust-bin.git
+[submodule "repos/meta-aws"]
+	path = repos/meta-aws
+	url = git@github.com:aws4embeddedlinux/meta-aws.git
+	branch = kirkstone
