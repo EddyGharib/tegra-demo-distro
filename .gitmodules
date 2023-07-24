@@ -37,3 +37,7 @@
 	path = repos/meta-aws
 	url = git@github.com:aws4embeddedlinux/meta-aws.git
 	branch = kirkstone
+[submodule "repos/meta-iw"]
+	path = repos/meta-iw
+	url = git@github.com:idealworks/meta-iw.git
+	branch = master
