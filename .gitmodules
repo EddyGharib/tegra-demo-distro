@@ -29,7 +29,7 @@
 [submodule "repos/meta-eddy"]
 	path = repos/meta-eddy
 	url = git@github.com:eddygharib/meta-eddy.git
-	branch = kirkstone
+	branch = master
 [submodule "repos/meta-updater"]
 	path = repos/meta-updater
 	url = git@github.com:uptane/meta-updater.git
