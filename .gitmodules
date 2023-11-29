@@ -26,3 +26,11 @@
 	path = repos/meta-tegra-community
 	url = https://github.com/OE4T/meta-tegra-community
 	branch = kirkstone-l4t-r32.7.x
+[submodule "repos/meta-eddy"]
+	path = repos/meta-eddy
+	url = git@github.com:eddygharib/meta-eddy.git
+	branch = kirkstone
+[submodule "repos/meta-updater"]
+	path = repos/meta-updater
+	url = git@github.com:uptane/meta-updater.git
+	branch = kirkstone
