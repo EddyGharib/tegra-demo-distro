@@ -34,3 +34,6 @@
 	path = repos/meta-updater
 	url = git@github.com:uptane/meta-updater.git
 	branch = kirkstone
+[submodule "repos/meta-clang"]
+	path = repos/meta-clang
+	url = https://github.com/kraj/meta-clang
