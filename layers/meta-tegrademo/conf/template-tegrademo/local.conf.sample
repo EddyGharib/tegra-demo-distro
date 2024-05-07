@@ -64,7 +64,7 @@ MACHINE ??= "qemux86-64"
 #
 #@TD_SETUP_DISTRO@ - placeholder for automatic insertion by setup-env
 # Base distro for meta-tegra
-#DISTRO ?= "tegrademo"
+#DISTRO ?= "grape"
 
 #
 # Package Management configuration

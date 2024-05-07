@@ -20,4 +20,7 @@ BBLAYERS ?= " \
   ##OEROOT##/meta-tegrademo \
   ##OEROOT##/meta-updater \
   ##OEROOT##/meta-eddy \
+  ##OEROOT##/meta-iw \
+  ##OEROOT##/meta-rust-bin \
+  ##OEROOT##/meta-clang \
   "
